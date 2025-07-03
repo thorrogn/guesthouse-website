@@ -6,8 +6,8 @@ Welcome to the official website repository for **Kingsukh Guest House** — a pe
 
 ## 🌐 Live Preview
 
-> 🔗 [Click Here to Visit the Live Site]([https://your-vercel-project-name.vercel.app](https://guesthouse-website-topaz.vercel.app/))  
-(*Replace this link with your actual Vercel URL once deployed*)
+> 🔗 [Click Here to Visit the Live Site] https://guesthouse-website-topaz.vercel.app/  
+
 
 ---
 
